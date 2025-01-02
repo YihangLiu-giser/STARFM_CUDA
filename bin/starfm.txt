@@ -1,0 +1,9 @@
+win_size=3 
+L_err=0.01
+M_err=0.01
+class_num=3
+A=1.0
+landsatPath1=./data/L_20191013.tif
+modisPath1=./data/M_2019_10_13.tif
+modisPath2=./data/M_2019_10_30.tif
+landsatPath2=./data/StarFM_output.tif
