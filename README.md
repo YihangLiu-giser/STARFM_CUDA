@@ -1,4 +1,4 @@
-# 本代码图像融合算法——STARFM的高性能实现（CUDA）  
+# 本代码为遥感图像融合算法——STARFM的高性能实现（CUDA）  
 ## bin目录为可执行文件  
 使用方法：  
 在STARFM.exe目录下打开终端，输入：./STARFM.exe starfm.txt cpu。或者将cpu改成gpu  
